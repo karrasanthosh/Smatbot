@@ -10,4 +10,4 @@ Exam
 
 > To run the project please type below command.
 
-* Install: `npm start`
+* Start: `npm start`
